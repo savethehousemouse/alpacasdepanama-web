@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aesthetique",
+  "description": "Curated digital collective redefining the visual poetry of modern space with the Sophisticated Dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

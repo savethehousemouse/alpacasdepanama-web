@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-sophisticated: #0c0c0d;
+    --card-sophisticated: #141417;
+    --border-muted: rgba(255, 255, 255, 0.08);
+    --text-accent: #c2a37d;
+  }
+
+  body {
+    background-color: #0c0c0d;
+    color: #d6d3d1;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+.serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.sans {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.bg-sophisticated {
+  background-color: #0c0c0d;
+}
+
+.border-muted {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.text-accent {
+  color: #c2a37d;
+}
+
+.bg-accent {
+  background-color: #c2a37d;
+}
